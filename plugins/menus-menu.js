@@ -34,18 +34,16 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `${tradutor.texto1[0]}
 
-${tradutor.texto1[1]} ${taguser}
+  ╭─────── • ◆ • ───────╮
+  |
+  |    𝐇𝐢, ${taguser}
+  |  𝐃𝐮𝐞𝐧̃𝐚: 𝑴𝒊𝒄𝒉𝒉 𝑽𝒆𝒏𝒂𝒔𝒔𝒔
+  |  𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩: wa.me/+5215657020453
+  |  𝐅𝐁: 𝒎𝒊𝒄𝒉𝒉 𝒓𝒆𝒚𝒆𝒔
+  |  𝐈𝐆: 𝒍𝒚𝒆𝒏.𝒇𝒊𝒕𝟎𝟑
+  |
+  ╰──────────────────────╯
 
-${tradutor.texto1[2]}
-
-${tradutor.texto1[3]} ${level}
-${tradutor.texto1[4]} ${exp}
-${tradutor.texto1[5]} ${role}
-${tradutor.texto1[6]} ${limit}
-${tradutor.texto1[7]} ${money}
-${tradutor.texto1[8]} ${joincount}
-${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
- ${readMore}
 
  ${tradutor.texto1[10]}
  
@@ -63,7 +61,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ╭───── • ◆ • ─────╮
   ├❧ _${usedPrefix}terminosycondiciones_
   ├❧ _${usedPrefix}grupos_
-  ├❧ _${usedPrefix}estado_
+  ├❧ _${usedPrefix}estado_ 
   ├❧ _${usedPrefix}infobot_
   ├❧ _${usedPrefix}speedtest_
   ├❧ _${usedPrefix}donar_
@@ -516,7 +514,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}delcmd_
   ├❧ _${usedPrefix}saveimage_
   ├❧ _${usedPrefix}viewimage_
-  ╰───── 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ─────╯`
+  ╰───── 𝐋𝐲𝐞𝐧 𝐁𝐨𝐭 ─────╯`
 
     let pp
     // Nouvelles images de menu disponibles 

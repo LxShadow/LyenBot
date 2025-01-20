@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `ShadowsBot`;
+global.authFile = `LyenBot`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -14,56 +14,56 @@ global.authFile = `ShadowsBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', false],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], 
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], 
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'],  
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'], 
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250']
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', false],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true], 
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true], 
+  ['5215657020453', '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭', true],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'], 
+  ['5215657020453'],  
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'], 
+  ['5215657020453'], 
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'], 
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453'],
+  ['5215657020453']
 ];
 
-global.suittag = ['5215541081250'];
-global.prems = ['5215541081250'];
+global.suittag = ['5215657020453'];
+global.prems = ['5215657020453'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.author = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.wm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm2 = `𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`
-global.igfg = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.packname = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
+global.author = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
+global.wm = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
+global.titulowm = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
+global.titulowm2 = `𝐋𝐲𝐞𝐧 𝐁𝐨𝐭`
+global.igfg = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
 global.wait = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -83,16 +83,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`;
-global.gt = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.mysticbot = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.wm2 = `${dia} ${fecha}\n𝐋𝐲𝐞𝐧 𝐁𝐨𝐭`;
+global.gt = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
+global.mysticbot = '𝐋𝐲𝐞𝐧 𝐁𝐨𝐭';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 global.waittt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 global.waitttt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
-global.nomorown = '5215541081250';
+global.nomorown = '5215657020453';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
